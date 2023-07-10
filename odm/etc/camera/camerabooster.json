@@ -1,0 +1,39 @@
+{
+    "version": "1.0",
+    "product": "lisa",
+    "threshold": {
+            "lowAdj_threshold": 201,
+            "3rd_lowAdj_threshold": 201,
+            "cam_boost_threshold": 2097152,
+            "3rdcam_boost_threshold": 1363148,
+            "update_state_delay_ms": 5000,
+            "kill_tag": 7
+        },
+    "support": {
+            "inhibit_3rdprocs_enable": true,
+            "oom_update_support": true,
+            "perceptible_support": true
+        },
+    "configs": [
+        {
+            "name": "inhibit_app_list",
+            "config": [
+                "com.google.android.providers.media.module",
+                "com.android.providers.media.module",
+                "com.google.android.inputmethod.latin",
+                "com.google.android.googlequicksearchbox:search",
+                "com.google.android.gms.persistent",
+                "com.tencent.android.qqdownloader",
+                "com.tencent.android.qqdownloader:cloud",
+                "com.tencent.android.qqdownloader:daemon"
+            ]
+        }
+    ],
+    "threshold_lowmem": {
+            "adj_threshold": 800,
+            "cam_boost_threshold": 1363148,
+            "3rdcam_boost_threshold": 1363148,
+            "update_state_delay_ms": 5000,
+            "skip_task_lower":1
+        }
+}
