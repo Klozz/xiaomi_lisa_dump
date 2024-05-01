@@ -1,0 +1,117 @@
+[
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/icm4x6xx_0_platform.accel.fac_cal.bias",
+        "verDepth":1,
+        "rootObject":"icm4x6xx_0_platform.accel.fac_cal.bias",
+        "items":["x"]
+    },
+    "originalFileInfo":{"rootFile":"/vendor/etc/sensors/config/sm7350_icm4x6xx_0.json",
+        "verDepth":4,
+        "rootObject":"icm4x6xx_0_platform",
+        "subRootObject1":".accel",
+        "subRootObject2":".fac_cal",
+        "subRootObject3":".bias",
+        "items":["x"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/icm4x6xa_0_platform.accel.fac_cal.bias",
+        "verDepth":1,
+        "rootObject":"icm4x6xa_0_platform.accel.fac_cal.bias",
+        "items":["x"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm7350_icm4x6xa_0.json",
+        "verDepth":4,
+        "rootObject":"icm4x6xa_0_platform",
+        "subRootObject1":".accel",
+        "subRootObject2":".fac_cal",
+        "subRootObject3":".bias",
+        "items":["x"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/icm4x6xx_0_platform.gyro.fac_cal.bias",
+        "verDepth":1,
+        "rootObject":"icm4x6xx_0_platform.gyro.fac_cal.bias",
+        "items":["x"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm7350_icm4x6xx_0.json",
+        "verDepth":4,
+        "rootObject":"icm4x6xx_0_platform",
+        "subRootObject1":".gyro",
+        "subRootObject2":".fac_cal",
+        "subRootObject3":".bias",
+        "items":["x"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/icm4x6xa_0_platform.gyro.fac_cal.bias",
+        "verDepth":1,
+        "rootObject":"icm4x6xa_0_platform.gyro.fac_cal.bias",
+        "items":["x"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm7350_icm4x6xa_0.json",
+        "verDepth":4,
+        "rootObject":"icm4x6xa_0_platform",
+        "subRootObject1":".gyro",
+        "subRootObject2":".fac_cal",
+        "subRootObject3":".bias",
+        "items":["x"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/tcs3701_new_platform.als.fac_cal",
+        "verDepth":1,
+        "rootObject":"tcs3701_new_platform.als.fac_cal",
+        "items":["scale"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm7350_tcs3701_new_arch.json",
+        "verDepth":3,
+        "rootObject":"tcs3701_new_platform",
+        "subRootObject1":".als",
+        "subRootObject2":".fac_cal",
+        "items":["scale"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/stk3a6x_0_platform.als.fac_cal",
+        "verDepth":1,
+        "rootObject":"stk3a6x_0_platform.als.fac_cal",
+        "items":["scale"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm7350_stk3a6x_0.json",
+        "verDepth":3,
+        "rootObject":"stk3a6x_0_platform",
+        "subRootObject1":".als",
+        "subRootObject2":".fac_cal",
+        "items":["scale"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/tsl2540_rear_platform.als.fac_cal",
+        "verDepth":1,
+        "rootObject":"tsl2540_rear_platform.als.fac_cal",
+        "items":["scale"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm7350_tsl2540_0.json",
+        "verDepth":3,
+        "rootObject":"tsl2540_rear_platform",
+        "subRootObject1":".als",
+        "subRootObject2":".fac_cal",
+        "items":["scale"]
+    }
+}
+]
